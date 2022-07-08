@@ -1,0 +1,36 @@
+body{
+    background: antiquewhite;
+}
+a{
+    text-decoration: none;
+    color: #342a05;
+}
+
+p {
+    background: aliceblue;
+    color: rgb(102, 102, 28);
+}
+.fam{
+    background: grey;
+    text-align: center;
+    color: #f58c4b
+}
+h2{
+    background: silver;
+    color: #342a05
+}
+h3 {
+    background: silver;
+    text-align:center;
+    color: #342a05
+}
+ul{
+    background: aliceblue;
+    color: #342a05
+}
+.homer{
+    margin-left: 100px;
+}
+img {
+    width: 150px;
+}
