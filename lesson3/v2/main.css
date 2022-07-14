@@ -1,0 +1,52 @@
+.father{
+    width: 1000px;
+    height: 800px;
+    border: 1px solid black;
+}
+.header{
+    height: 150px;
+    background: #9ab2b2;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.icon{
+    background: #194b6c;
+    width: 200px;
+    height: 60px;
+    border-radius: 20px;
+    margin-left: 50px;
+}
+.nav{
+    font-size: 40px;
+    color: #5e6564;
+    margin-right: 50px;
+}
+.content{
+    height: 400px;
+    background: #194b6c;
+    display: flex;
+    justify-content: center;
+
+    position: relative;
+}
+.bigbox{
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    position: absolute;
+
+    bottom: -75px;
+}
+.box{
+    width: 150px;
+    height: 150px;
+    background: blue;
+    border-radius: 20px;
+}
+.futer {
+    height: 250px;
+    background: #9ab2b2;
+}
